@@ -4,9 +4,10 @@ I'm Nikola - I'm a software engineer student at Technical Faculty of Mihajlo Pup
 - I'm interested in learning web development, graphic design, character design as well as drawing splash arts and/or animations.
 
 **- Currently learning:**
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
 
-**- Check out my art on instagram:**
+**- Check out my art on:**
   [Instagram](https://www.instagram.com/ninjuubi/)
 
 
