@@ -1,4 +1,4 @@
-**### Hello there 👋**
+### Hello there 👋
 
 I'm Nikola 
 - I'm a software engineer student at Technical Faculty of Mihajlo Pupin in Zrenjanin. 
