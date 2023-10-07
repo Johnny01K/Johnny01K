@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+I'm Nikola - I'm a software engineer student at Technical Faculty of Mihajlo Pupin in Zrenjanin. I work a freelance job as a moderator on twitch and do art both traditionally and digitally on the iPad Pro.
+I am interested in learning web development, graphic design, character design as well as drawing splash arts and/or animations.
+
+🌱 I’m currently learning HTML, CSS, JS and Java.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
+
+
 
 <!--
 **Johnny01K/Johnny01K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
