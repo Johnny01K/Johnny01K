@@ -2,7 +2,7 @@
 
 I'm Nikola 
 - I'm a software engineer student at Technical Faculty of Mihajlo Pupin in Zrenjanin. 
-- I work a freelance job as a moderator on twitch and do art both traditionally and digitally on the iPad Pro.
+- I work a freelance job as a moderator on twitch and do art both traditionally on paper and digitally on the iPad Pro.
 - I'm interested in learning web development, graphic design, character design as well as drawing splash arts and/or animations.
 
 **- Currently learning:**
