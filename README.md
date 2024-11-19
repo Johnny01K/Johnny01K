@@ -1,29 +1,6 @@
-### Hello there 👋
-
-I'm Nikola 
-- Graduate IT - Software Engineer of Technical Faculty Mihajlo Pupin, University of Novi Sad.
-- I work a freelance job as a moderator on twitch and do art both traditionally on paper and digitally on the iPad Pro.
-- I'm interested in learning web development, graphic design, character design as well as drawing splash arts and/or animations.
-
-**- Currently learning:**
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
-
-**- Check out my art on:**
-  [Instagram](https://www.instagram.com/ninjuubi/)
-
-
-<!--
-**Johnny01K/Johnny01K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="(https://github.com/Johnny01K)">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2efc569b-a776-4a95-b9d5-41c25b0f8df0">
+    <img alt="Andrew Grant's GitHub Profile README" src="https://github.com/user-attachments/assets/2efc569b-a776-4a95-b9d5-41c25b0f8df0">
+  </picture>
+</a>
